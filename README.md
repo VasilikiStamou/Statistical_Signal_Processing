@@ -1,2 +1,2 @@
 # Statistical_Signal_Processing
-Modeling an Prediction of stochastic processes
+Modeling an Prediction of Stochastic Processes
